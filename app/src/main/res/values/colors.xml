@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#292b3d</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="greylight">#FAFAFA</color>
+    <color name="startblue">#09C6DF</color>
+    <color name="endblue">#0BCCE6</color>
+
+    <color name="Altron_Primary_2_1">#001EBA</color>
+    <color name="Altron_Primary_2_2">#05147D</color>
+    <color name="Altron_Primary_2_3">#35459E</color>
+    <color name="Altron_Primary_2_4">#003B74</color>
+    <color name="Altron_Primary_2_5">#0B42FF</color>
+</resources>
